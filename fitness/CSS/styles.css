@@ -64,7 +64,7 @@ main{
 }
 
 .action {
-    font-size: 1.35;
+    font-size: 1.35em;
     color: #666600;
     font-weight: bold;
 }
